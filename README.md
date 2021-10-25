@@ -31,3 +31,4 @@ The purpose of this analysis was to utilize deep learning models in an effort to
 
 
 ## Summary
+Post-optimization, the model's accuracy resulted in 72.7%, which is short of the goal of 75% accuracy. Although this was improvement from the base reading, a higher accuracy may be further achieved with the addition of more data with characteristics of the businesses that were previously invested in to further train the model. 
