@@ -21,8 +21,13 @@ The purpose of this analysis was to utilize deep learning models in an effort to
   - The base model achieved an accuracy of 53.2%
    - <img width="600" alt="Screen Shot 2021-10-24 at 8 15 01 PM" src="https://user-images.githubusercontent.com/85713470/138618501-82f765d7-3858-4930-9890-05a426117b0a.png">
 
-- Was the model able to achieve target performance
--
-- What steps were taken to try and increase model preformance 
+### Optimizing the Model
+- What steps were taken to improve performance? Was the model able to achieve target performance? 
+  - In an effort to improve performance, additional hidden layers were added with more neurons in each. Additionally, the number of epoch iterations was increased from 10 to 30. The maximum accuracy achieved is listed below, although it was attempted several times with varying neurons, hidden layers, functions and epoch iterations. 
+   - <img width="600" alt="Screen Shot 2021-10-24 at 8 28 10 PM" src="https://user-images.githubusercontent.com/85713470/138619145-d27b3c22-94b0-488b-86eb-a55b0acc25e1.png">
+  - The model was able to achieve 72% accuracy, which is short of the 75% goal. 
+   - <img width="600" alt="Screen Shot 2021-10-24 at 8 28 19 PM" src="https://user-images.githubusercontent.com/85713470/138619181-2a71a2b8-0d4e-4fd9-83d1-64237b739771.png">
+
+
 
 ## Summary
